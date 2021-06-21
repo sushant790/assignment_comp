@@ -1,4 +1,4 @@
-/* code by webdevtrick ( https://webdevtrick.com ) */
+/* code by Sushant */
 $(".btn").click(function(){
   $(".input").toggleClass("active").focus;
   $(this).toggleClass("animate");
